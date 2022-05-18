@@ -1,0 +1,191 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bg-light {
+  background-color: black;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 16pt;
+}
+
+.content {
+  background-color: red;
+}
+
+.pic1 {
+  float: right;
+  margin-left: 64px;
+  box-shadow: 0px 0px 10px 0px;
+  position: relative;
+  z-index: 1;
+
+  
+}
+
+.pic1 {
+  float: left;
+}
+
+.pic3 {
+  float: right;
+}
+
+.pic4 {
+  float: right;
+}
+
+.pic5 {
+  float: left;
+}
+
+
+.ordernow{
+  width: 10%;
+	height: 50px;
+	color: #ffffff;
+	background-color: #514eff;
+	color: #ffffff;
+	font-size: 16pt;	
+	margin-top: 35px;
+}
+.signup{
+  background-color: blue;
+}
+
+.subscribr_bt {
+  width: 10%;
+  float: right;
+  background-color: #ff4e5b;
+  font-size: 13pt;
+  height: 50px;
+  color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: #db5660;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0.9rem;
+  padding-left: 1.6rem;
+}
+
+.gallery_section{
+	width: 100%;
+	float: left;
+	background-color: #ff4e5b;
+	height: auto;
+
+}
+
+.best_shoes {
+    width: 100%;
+    float: left;
+    background-color: #ffffff;
+    height: auto;
+    padding: 20px 20px 20px 0px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.best_text{
+	width: 100%;
+	float: left;
+	font-size: 14pt;
+	color: #000;
+	text-align: center;
+    margin-left: 0px;
+}
+
+
+
+
+
+
+
+.section_footer {
+  width: 100%;
+  float: left;
+  background-color: black;
+  height: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.section_container {
+  width: 100%;
+  float: left;
+  background-color: black;
+  height: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+/* .mail_section {
+  width: 100%;
+  float: left;
+}
+.footer-logo {
+  float: left;
+  font-size: 12pt;
+  color: #fdfefe;
+}
+
+.mail_section li {
+  float: left;
+  font-size: 12pt;
+  color: #fdfefe;
+  padding-right: 35px;
+}
+.footer_section_2 {
+  width: 100%;
+  float: left;
+  padding-top: 20px;
+}
+.shop_text {
+  width: 100%;
+  float: left;
+  font-size: 28px;
+  color: #ebebeb;
+}
+.dummy_text {
+  width: 100%;
+  float: left;
+  font-size: 12pt;
+  color: #ffffff;
+  margin-left: 0px;
+  margin-top: 55px;
+  line-height: 25px;
+}
+.image-icon {
+  width: 100%;
+  float: left;
+  padding-top: 6px;
+}
+.pet_text {
+  font-size: 12pt;
+  color: #ffffff;
+  padding-left: 16px;
+  display: flex;
+  top: -26px;
+  position: relative;
+  padding-left: 20px;
+}
+.adderess_text {
+  width: 100%;
+  float: left;
+  font-size: 28px;
+  color: #ebebeb;
+} */
